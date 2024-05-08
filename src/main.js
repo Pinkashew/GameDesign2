@@ -22,7 +22,7 @@ let config = {
     },
     width: 800,
     height: 600,
-    scene: [TitleScreen, SpriteMovement, NextLevel, LastLevel]
+    scene: [TitleScreen, SpriteMovement, NextLevel, LastLevel, ControlScreen]
 }
 
 const game = new Phaser.Game(config);
