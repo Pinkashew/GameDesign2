@@ -1,3 +1,3 @@
-**1-D Movement**
+**Gallery Shooting Game**
 
-"Class assignment for CMPM 120 where we explore 1D of movement"
+"Class project for CMPM 120 where we make our own 2-D Gallery shooter game"
